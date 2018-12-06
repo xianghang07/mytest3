@@ -1,0 +1,3 @@
+new world
+new times
+new generation
